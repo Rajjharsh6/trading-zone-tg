@@ -7,7 +7,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # --- Configuration ---
-TELEGRAM_TOKEN = "8935401546:AAF6am97F66ORoCnHnDooaTCqREqrtSv2HM"
+TELEGRAM_TOKEN = "8935401546:AAHnwFV09CSYCrx3jKPjZBYVCnFurMn0X6w"
 OANDA_ACCESS_TOKEN = "309c0809eb47793a55d3cf3063b95921-1690f18abdd1c2647ca7a28dcfe1e1b4"
 OANDA_ACCOUNT_ID = "101-001-40731602-001"  # Format: "101-001-XXXXXXX-001"
 IS_PRACTICE = True  # True for Demo, False for Live
